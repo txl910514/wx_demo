@@ -1,0 +1,31 @@
+#checkJsApi {
+    color: #fff;
+    height: 80px;
+    background: cadetblue;
+    border: solid 1px #eee;
+    font-size: 60px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+#onMenuShareAppMessage {
+    color: #fff;
+    height: 80px;
+    background: cadetblue;
+    border: solid 1px #eee;
+    font-size: 60px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+#onMenuShareTimeline {
+    color: #fff;
+    height: 80px;
+    background: cadetblue;
+    border: solid 1px #eee;
+    font-size: 60px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
